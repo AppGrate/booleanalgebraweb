@@ -1,1 +1,1 @@
-# booleanalgebraweb
+# Boolean Algebra Web
